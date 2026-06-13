@@ -1,37 +1,17 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamAnand/SVG-Animations/master/grid.svg" alt="0xward Core Intelligence Sync Animation" width="120" height="120" />
+</p>
+
 # @0xward/thesisai-sdk
 
-[![NPM Version](https://img.shields.io/npm/v/@0xward/thesisai-sdk)](https://www.npmjs.com/package/@0xward/thesisai-sdk)
-[![NPM Downloads](https://img.shields.io/npm/dm/@0xward/thesisai-sdk)](https://www.npmjs.com/package/@0xward/thesisai-sdk)
-[![License](https://img.shields.io/npm/l/@0xward/thesisai-sdk)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <a href="https://www.npmjs.com/package/@0xward/thesisai-sdk"><img src="https://img.shields.io/npm/v/@0xward/thesisai-sdk?style=flat-square" alt="NPM Version" /></a>
+  <a href="https://www.npmjs.com/package/@0xward/thesisai-sdk"><img src="https://img.shields.io/npm/dm/@0xward/thesisai-sdk?style=flat-square" alt="NPM Downloads" /></a>
+  <a href="https://www.npmjs.com/package/@0xward/thesisai-sdk"><img src="https://img.shields.io/npm/l/@0xward/thesisai-sdk?style=flat-square" alt="License" /></a>
+</p>
 
-A specialized algorithmic research framework providing autonomous document processing, text synthesis structure, and distributed index registration tools bound to the Stacks infrastructure layer.
+ThesisAI Autonomous Research Agent SDK—core computational logic for decentralized intelligence frameworks built on STACKS ecosystems.
 
----
-
-## Installation
-
-### Prerequisites
-- Node.js >= 18.0.0
-- npm >= 9.0.0 (or yarn >= 1.22.0 / pnpm >= 8.0.0)
-
-### Package Deployment
-Execute the targeted acquisition command matching your production environment package manager setup:
-
-```bash
-# Using Node Package Manager (Default)
-npm install @0xward/thesisai-sdk
-
-# Using Yarn Package Manager
-yarn add @0xward/thesisai-sdk
-
-# Using PNPM Package Manager
-pnpm add @0xward/thesisai-sdk
-```
-
-### Peer Dependencies
-For secure runtime cryptographic executions and ledger state mutations, ensure your runtime container establishes communication boundaries with the primary network bindings if processing on-chain blocks:
-- For Stacks L2 layers: @stacks/transactions (>= 6.x) for absolute proof anchoring orchestration.
----
 
 ## Core Capabilities
 
