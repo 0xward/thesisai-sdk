@@ -1,0 +1,16 @@
+{
+  "name": "@0xward/thesisai-sdk",
+  "version": "1.0.0",
+  "description": "AI thesis analysis and computation helper framework.",
+  "main": "index.js",
+  "keywords": [
+    "0xward",
+    "web3",
+    "ai"
+  ],
+  "author": "0xward",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
