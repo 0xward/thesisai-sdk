@@ -1,6 +1,8 @@
 # @0xward/thesisai-sdk
 
-ThesisAI is a high-performance Autonomous Research Agent designed to streamline academic writing. It synthesizes complex information from your provided knowledge base into structured, properly formatted academic prose.
+![NPM Version](https://img.shields.io/npm/v/@0xward/thesisai-sdk) ![NPM Downloads](https://img.shields.io/npm/dm/@0xward/thesisai-sdk) ![License](https://img.shields.io/npm/l/@0xward/thesisai-sdk)
+
+ThesisAI is a high-performance Autonomous Research Agent designed to streamline academic writing.
 
 ## Features
 - **Academic Synthesis Engine:** High-performance data pipelines parsing raw knowledge documents into logical structures.
