@@ -1,6 +1,6 @@
 {
   "name": "@0xward/thesisai-sdk",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "High-performance Autonomous Research Agent designed to streamline and synthesize academic writing.",
   "main": "index.js",
   "keywords": [
@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/0xward/thesisai-sdk/issues"
   },
-  "homepage": "https://www.npmjs.com/package/@0xward/thesisai-sdk#readme"
+  "homepage": "https://www.npmjs.com/package/@0xward/thesisai-sdk#readme",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
 }
