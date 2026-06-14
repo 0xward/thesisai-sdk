@@ -1,6 +1,6 @@
 {
   "name": "@0xward/thesisai-sdk",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "High-performance Autonomous Research Agent designed to streamline and synthesize academic writing.",
   "main": "index.js",
   "keywords": [
