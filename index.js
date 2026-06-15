@@ -19,7 +19,7 @@ class ThesisAISDK {
         this.citationStyle  = options.citationStyle || "APA";
         this.maxSources     = options.maxSources    || MAX_SOURCES;
         this.language       = options.language      || "en";
-        this.version        = "1.1.7";
+        this.version        = "1.1.4";
         this._validateOptions();
     }
 
